@@ -3,7 +3,7 @@ A desktop based Text Editor Application made using Java Swing.
 
 --> The project involves building a text editor in Java, using Java Swing for creating a graphical user interface.
 
---> The text editor will have a window (frame) with a menu bar, consisting of two menus - file menu, edit menu and view menu.
+--> The text editor will have a window (frame) with a menu bar, consisting of three menus - file menu, edit menu and view menu.
 
 --> The file menu will have features like new window, save file and open file.
 
